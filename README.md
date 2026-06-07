@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/snap79/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Customer Accounts Microservice for an e-commerce platform.
 
 This project is part of the IBM DevOps Capstone Project.
